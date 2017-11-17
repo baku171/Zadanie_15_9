@@ -1,0 +1,29 @@
+{
+  "name": "zadanie_15_9",
+  "version": "1.0.0",
+  "description": "GITHUB Users Search",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel script.js --watch --out-file build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baku171/Zadanie_15_9.git"
+  },
+  "keywords": [
+    "ES6",
+    "JS"
+  ],
+  "author": "baku171",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baku171/Zadanie_15_9/issues"
+  },
+  "homepage": "https://github.com/baku171/Zadanie_15_9#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}
